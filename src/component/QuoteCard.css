@@ -1,0 +1,42 @@
+/* src/components/QuoteCard.css */
+
+.quote-card {
+  background-color: #fdfdfd;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background: linear-gradient(to right, #8fe265, #f3f3f3);
+  
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 400px;
+  text-align: center;
+  transition: transform 0.3s ease;
+}
+
+.quote-card:hover {
+  transform: translateY(-10px);
+}
+
+.quote-card p {
+  font-size: 1.2em;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.save-button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.save-button:hover {
+  background-color: #0056b3;
+}
+.app{
+  background-color: black;
+}
