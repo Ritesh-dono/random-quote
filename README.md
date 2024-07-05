@@ -1,0 +1,1 @@
+This project is a small React application that fetches and displays random quotes from the Ron Swanson Quotes API. The application is styled with CSS to enhance its visual appeal and includes functionality to save favorite quotes.
